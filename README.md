@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... nz
 - 📫 How to reach me ... qla 1v1 v selo
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... they/them
+- ⚡ Fun fact: ... koteto mi e igrach
 
 <!---
 maistormani/maistormani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
